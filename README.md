@@ -20,12 +20,5 @@ A ser definido.
 ## Como rodar
 A ser definido.
 
-## Contribuição
-1. Faça um fork deste repositório.
-2. Crie uma branch para a sua feature: `git checkout -b feature/nomedafeature`.
-3. Faça as alterações e commit: `git commit -m 'Add nova funcionalidade'`.
-4. Envie para o repositório remoto: `git push origin feature/nomedafeature`.
-5. Abra um pull request para revisão.
-
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).

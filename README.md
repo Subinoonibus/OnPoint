@@ -1,24 +1,37 @@
-# sistema-de-gestao-de-agendas
+# OnPoint
 
-## Descrição
-O **Shortcut** é um sistema desenvolvido para consultórios médicos e estéticos, permitindo que pacientes agendem, reagendem ou cancelem consultas, enquanto os profissionais podem gerenciar sua agenda de forma simples e eficiente.
+**OnPoint** é um sistema de gerenciamento de agendas voltado para consultórios.  
+O objetivo do projeto é facilitar a organização de consultas, otimizar o tempo dos profissionais de saúde e melhorar a experiência dos pacientes.
 
-## Funcionalidades
-- **Para Pacientes**:
-  - Agendamento de consultas
-  - Reagendamento de consultas
-  - Cancelamento de consultas
+---
 
-- **Para Profissionais**:
-  - Visualização da agenda
-  - Gerenciamento de horários disponíveis
-  - Gerenciamento de consultas
+## ✨ Funcionalidades previstas
+- Cadastro de pacientes e profissionais
+- Agendamento e cancelamento de consultas
+- Visualização de agenda diária, semanal e mensal
+- Notificações de lembrete
+- Relatórios de atendimento
 
-## Tecnologias
-A ser definido.
+---
 
-## Como rodar
-A ser definido.
+## 🚀 Status do Projeto
+📌 Em desenvolvimento – tecnologias e arquitetura ainda em definição.  
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
+---
+
+## 📅 Próximos Passos
+- Definição do stack de tecnologias
+- Criação do protótipo da interface
+- Implementação do backend e frontend
+- Integração com banco de dados
+
+---
+
+## 🤝 Contribuição
+Contribuições são bem-vindas!  
+Para sugestões ou feedback, abra uma **issue** ou envie um **pull request**.
+
+---
+
+## 📜 Licença
+Ainda não definida.

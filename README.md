@@ -93,23 +93,10 @@ A aplicação oferecerá:
 
 ---
 
-### **Sprint 4 - Refinamento e Testes Finais**
- 
-**Objetivo principal**: Realizar testes finais, corrigir erros e garantir que a plataforma esteja pronta para o lançamento.
-
-#### **Tarefas da Sprint 4**:
-- Testes de integração e performance.
-- Refinamento de funcionalidades.
-- Correção de bugs identificados nas sprints anteriores.
-
-#### **Critérios de Aceitação**:
-- Sistema sem erros críticos.
-- Funcionalidades testadas e funcionando conforme esperado.
-
----
-
 ## 📄 Tecnologias Utilizadas
 
 - Figma
 - JavaScript
-- Html
+- HTML
+
+---

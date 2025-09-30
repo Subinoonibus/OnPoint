@@ -37,8 +37,7 @@ A aplicação oferecerá:
 ## 🚧 **Sprints do Projeto OnPoint**
 
 ### **Sprint 1 - Início e Funcionalidades Básicas**
-**Data de início**: [Data de início]  
-**Data de término**: [Data de término]  
+  
 **Objetivo principal**: Implementar o cadastro de pacientes e o agendamento de consultas, garantindo que o fluxo básico de usuários seja atendido.
 
 #### **Tarefas da Sprint 1**:
@@ -57,8 +56,7 @@ A aplicação oferecerá:
 ---
 
 ### **Sprint 2 - Funcionalidades de Visualização e Cancelamento**
-**Data de início**: [Data de início]  
-**Data de término**: [Data de término]  
+  
 **Objetivo principal**: Implementar a visualização de agenda dos profissionais e a funcionalidade de cancelamento de consultas pelos pacientes.
 
 #### **Tarefas da Sprint 2**:
@@ -77,8 +75,7 @@ A aplicação oferecerá:
 ---
 
 ### **Sprint 3 - Relatórios e Notificações**
-**Data de início**: [Data de início]  
-**Data de término**: [Data de término]  
+ 
 **Objetivo principal**: Desenvolver funcionalidades de relatórios de atendimentos e notificações de lembrete para pacientes.
 
 #### **Tarefas da Sprint 3**:
@@ -97,8 +94,7 @@ A aplicação oferecerá:
 ---
 
 ### **Sprint 4 - Refinamento e Testes Finais**
-**Data de início**: [Data de início]  
-**Data de término**: [Data de término]  
+ 
 **Objetivo principal**: Realizar testes finais, corrigir erros e garantir que a plataforma esteja pronta para o lançamento.
 
 #### **Tarefas da Sprint 4**:
@@ -114,8 +110,6 @@ A aplicação oferecerá:
 
 ## 📄 Tecnologias Utilizadas
 
-- [Figma]
-- [JavaScript]
-- [Html]
-
----
+- Figma
+- JavaScript
+- Html

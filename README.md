@@ -6,6 +6,8 @@ O objetivo do projeto é facilitar a organização de consultas, otimizar o temp
 ---
 
 ## 💡 Solução Proposta
+A aplicação oferecerá:
+
 - Cadastro de pacientes e profissionais
 - Agendamento e cancelamento de consultas
 - Visualização de agenda diária, semanal e mensal
